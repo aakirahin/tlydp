@@ -1,16 +1,18 @@
-# tlydp
+# The Little Yellow Duck Project
 
-A new Flutter project.
+Founded on the initiative to raise awareness about and encourage blood, bone marrow, and organ and tissue donation: https://thelittleyellowduckproject.org/
 
-## Getting Started
+## Summary
 
-This project is a starting point for a Flutter application.
+The aim of this app is to make the process of logging and registering ducks easier.
 
-A few resources to get you started if this is your first Flutter project:
+Technology used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter 2.8.1
+- Google Maps API
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+
+After cloning this repo, run `flutter pub get` in your terminal to install package dependencies, then start this app with `flutter run`.
+
+**Please note that you will need a Google Maps API key in order to view the map on this app.**
