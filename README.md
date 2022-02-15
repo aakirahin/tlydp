@@ -2,6 +2,10 @@
 
 Founded on the initiative to raise awareness about and encourage blood, bone marrow, and organ and tissue donation: https://thelittleyellowduckproject.org/
 
+Link to backend repo: https://github.com/aakirahin/tlydp-api
+
+Linked to hosted version of backend repo: https://tlydp.herokuapp.com/api
+
 ## Summary
 
 The aim of this app is to make the process of logging and registering ducks easier.
